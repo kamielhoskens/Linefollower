@@ -12,4 +12,7 @@
 |         8|Batterij       |EVE 18650 Li-ion Batterij - 3100mAh - 10A - INR18650-33V               |nieuw      |€3,50         |2     |€7,00    |
 |         9|Bluetooth      |HC-05 Bluetooth module                                                 |nieuw      |€2,49         |1     |€2,49    |
 |        10|Oplader        |Battery Charger                                                        |nieuw      |€1,99         |1     |€1,99    |
+|        11|Schakelaar     |Schakelaar voor voeding                                                |recup      |€0,00         |1     |€0,00    |
+|        12|Plexi          |Stukje plexi                                                           |recup      |€0,00         |1     |€0,00    |
+|        13|M3 boutjes     |M3 boutjes                                                             |recup      |€0,00         |1     |€0,00    |
                                                                                                                               |TOTAAL|€19,91   |

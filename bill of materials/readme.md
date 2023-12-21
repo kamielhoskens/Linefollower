@@ -2,6 +2,7 @@
 <br />
 
 |volgnummer|naam           |omschrijving                                                           |nieuw/recup|kostprijs/stuk|aantal|subtotaal|
+|----------|----|------------|-----------|--------------|------|---------|
 |         1|IR Sensor      |8 Channel TCRT5000 IR Photoelectric Line Track Module QTR-8A           |nieuw      |€1,45         |1     |€1,45    |
 |         2|Wieltjes       |ZJ327 3PI miniQ car N20 motor rubber wheel diameter 34mm code disc 34*7|nieuw      |€0,07         |2     |€0,14    |
 |         3|H-brug         |DRV8833 2Channel DC Motor Driver Module Board 1.5A 3V-10V              |nieuw      |€0,34         |1     |€0,34    |

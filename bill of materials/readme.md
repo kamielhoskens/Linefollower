@@ -16,4 +16,5 @@
 |        11|Schakelaar     |Schakelaar voor voeding                                                |recup      |€0,00         |1     |€0,00    |
 |        12|Plexi          |Stukje plexi                                                           |recup      |€0,00         |1     |€0,00    |
 |        13|M3 boutjes     |M3x16 boutjes                                                          |recup      |€0,00         |1     |€0,00    |
-                                                                                                                              |TOTAAL|€19,91   |
+                                                                                                                              TOTAAL €19,91   
+                                                                                                                              
